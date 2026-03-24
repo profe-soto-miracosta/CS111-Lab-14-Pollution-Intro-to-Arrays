@@ -1,6 +1,3 @@
-// YOUR NAME:
-// COLLABORATORS:
-// LAST MODIFIED DATE: 
 /*
 Yearly Global Atmospheric CO₂ Levels (parts per million)
 2001: 371.32 ppm
@@ -26,29 +23,33 @@ Yearly Global Atmospheric CO₂ Levels (parts per million)
 (Data from: https://www.esrl.noaa.gov/gmd/webdata/ccgg/trends/co2/co2_annmean_mlo.txt)
 */
 
-class Main 
+/**
+ * Your program description here
+ * @author Your name here
+ */
+public class Main 
 {
 	//CONSTANTS SECTION
 
-  public static void main(String[] args) 
-  {
+	public static void main(String[] args) 
+	{
 		// DECLARATION SECTION
-
+		
 		// INITIALIZATION SECTION
-
+		
 		// INPUT SECTION 
-
+		
 		// PROCESSING SECTION
-
+		
 		// OUTPUT SECTION
-  
-    //Explanation of oil drum units
-    System.out.println("\nData displayed for each year begins at 360 ppm.\nEach additional oil drum (🛢 ) represents an additional 10 ppm.\n");
-
-    //Column titles of graph
-    System.out.print("Year");
-    UtilityBelt.printCentered(55,"CO₂ in Atmosphere (ppm)");
-
-  }
+		
+		//Explanation of oil drum units
+		System.out.println("\nData displayed for each year begins at 360 ppm.\nEach additional oil drum (🛢 ) represents an additional 10 ppm.\n");
+		
+		//Column titles of graph
+		System.out.print("Year");
+		UtilityBelt.printCentered(55,"CO₂ in Atmosphere (ppm)");
+	
+	}
 
 }
