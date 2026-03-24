@@ -2,7 +2,7 @@
 
 **Create a visual representation of data utilizing arrays**
 
-## Learning Objective
+## Learning Objectives
 - Demonstrate an understanding of accessing array data (by indexing and looping) for output.
 
 ## Background
