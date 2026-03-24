@@ -2,9 +2,10 @@
 
 **Create a visual representation of data utilizing arrays**
 
-_Learning Objective: Demonstrate an understanding of accessing array data (by indexing and looping) for output._
+## Learning Objective
+- Demonstrate an understanding of accessing array data (by indexing and looping) for output.
 
-### Background:
+## Background
 
 ![Graph depicting increase of atmospheric carbon dioxide](https://www.climate.gov/sites/default/files/BAMS_SOTC_2019_co2_paleo_1000px.jpg)
 
@@ -19,10 +20,10 @@ Information source from: [https://www.climate.gov/news-features/understanding-cl
 ![Image of the effect of ocean acidification on marine mollusks]
 (https://www.climate.gov/sites/default/files/pteropod_comparison_620.jpg)
 
-## Lab Prompt:
+## Program Description
 Create a bar graph depicting the average atmospheric CO₂ levels from the year 2001 to 2020.
 
-## Lab Instructions:
+## Specifications
 
 ### Step 1: Declare and Initialize Arrays
 **Inside the main method**:
