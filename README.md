@@ -17,8 +17,7 @@ This in turn has caused the ocean to lower its pH by 0.1 units, which is a 30% i
 
 Information source from: [https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
 
-![Image of the effect of ocean acidification on marine mollusks]
-(https://www.climate.gov/sites/default/files/pteropod_comparison_620.jpg)
+![Image of the effect of ocean acidification on marine mollusks](https://www.climate.gov/sites/default/files/pteropod_comparison_620.jpg)
 
 ## Program Description
 Create a bar graph depicting the average atmospheric CO₂ levels from the year 2001 to 2020.
